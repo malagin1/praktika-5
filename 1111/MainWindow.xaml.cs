@@ -58,7 +58,7 @@ namespace _1111
             {
                 MessageBox.Show("Введены некорректные данные");
             }
-            catch (Exception ex)
+             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
             }
